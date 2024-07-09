@@ -21,6 +21,8 @@
     line-height: 68px;
     letter-spacing: 0%;
     text-align: center;
+}
+.header{
     margin-top: 32px;
 }
 .banner-description{
@@ -31,6 +33,8 @@
     line-height: 26px;
     letter-spacing: 0%;
     text-align: center;
+}
+.description{
     margin-top: 24px;
 }
 .banner-button{
